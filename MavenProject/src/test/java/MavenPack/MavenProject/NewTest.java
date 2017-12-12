@@ -15,6 +15,7 @@ public class NewTest {
         driver.get("http://store.demoqa.com//");
         driver.manage().window().fullscreen();
         System.out.println("this is to check integration");
+        System.out.println("this is 2nd integration check");
 
       
   }
