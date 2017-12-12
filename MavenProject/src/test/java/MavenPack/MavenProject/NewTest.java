@@ -14,6 +14,7 @@ public class NewTest {
         WebDriver driver = new FirefoxDriver();
         driver.get("http://store.demoqa.com//");
         driver.manage().window().fullscreen();
+        System.out.println("this is to check integration");
 
       
   }
